@@ -2,7 +2,9 @@ import "./globals.css";
 import Navbar from "./components/Navbar";
 
 export const metadata = {
+
   title: "RV4 Dashboard",
+
   description: "Panel de gestión RV4",
 };
 
